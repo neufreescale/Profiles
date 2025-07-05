@@ -3,3 +3,4 @@ payload:
 
   - DOMAIN-SUFFIX,agencyzoom.org
   - DOMAIN-SUFFIX,agencyzoom.com
+  - DOMAIN-SUFFIX,us-east-1.elb.amazonaws.com
