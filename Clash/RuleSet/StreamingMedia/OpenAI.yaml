@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,identrust.com
